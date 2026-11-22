@@ -1,0 +1,66 @@
+{
+    "BitsAllocated": "8",
+    "BitsStored": "8",
+    "CineRate": "15",
+    "Columns": "512",
+    "Dimensions": [
+        512,
+        512,
+        70
+    ],
+    "Directions": [
+        [
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "DistanceSourceToDetector": "1122.0",
+    "DistanceSourceToPatient": "791.0417",
+    "FocalSpotSize": "0.4",
+    "FrameTime": "66.666664",
+    "HighBit": "7",
+    "ImageType": "angio-siemens",
+    "ImagerPixelSpacingX": "0.278875",
+    "ImagerPixelSpacingY": "0.278875",
+    "IntensifierSize": "200",
+    "MagnificationFactor": "1.4183829",
+    "Manufacturer": "Siemens",
+    "Model": "AXIOM-Artis",
+    "NumberOfFrames": "70",
+    "Origin": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "PatientOrientation": "LF",
+    "PhotometricInterpretation": "MONOCHROME2",
+    "PixelIntensityRelationship": "DISP",
+    "PixelRepresentation": "0",
+    "Plane": "A",
+    "PositionerPrimaryAngle": "-21.5",
+    "PositionerSecondaryAngle": "-19.1",
+    "ProtocolName": "Coro 15",
+    "Rows": "512",
+    "Spacing": [
+        0.278875,
+        0.278875,
+        1.0
+    ],
+    "StartTrim": "1",
+    "StopTrim": "70",
+    "code": "MI_1",
+    "filepath": "1.3.12.2.1107.5.4.5.153231.30000014051405381346800000334.4.512.dcm",
+    "name": "series_05",
+    "step": "PRE_PCI"
+}
